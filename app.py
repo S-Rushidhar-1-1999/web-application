@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'GreyMatters'
+    return '@USE_FULL_BOTZ'
 
 
 if __name__ == "__main__":
